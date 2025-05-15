@@ -1,6 +1,6 @@
 /* list all customers */
 
 SELECT
-	* as a
+	*
 FROM
-	a.customer;
+	a.customer; /*Sandeep typed something*/
