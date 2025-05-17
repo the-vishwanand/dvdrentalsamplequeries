@@ -1,3 +1,3 @@
 </p>
-<h3 align="center">High performance self-hosted photo and video management solution</h3>
+<h3 align="center">SQL queries to practice using sample database dvdrental.</h3>
 <br/>
